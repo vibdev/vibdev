@@ -1,4 +1,4 @@
-<img src="https://github.com/vibdev/vibdev/raw/main/welcome.svg" alt="Welcome" width="100%">
+<img src="welcome.svg" alt="Welcome" width="100%">
 
 ### 'Ello 👋
 
