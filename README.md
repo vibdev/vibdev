@@ -1,4 +1,4 @@
-<img src="/welcome.svg" width="100%" height="100" alt="Welcome!">
+<img src="https://ghe.megaleo.com/vibdev/vibdev/blob/master/preview.svg" width="100%" height="100" alt="Welcome!">
 
 ### 'Ello 👋
 
