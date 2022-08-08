@@ -1,4 +1,4 @@
-![Welcome](https://github.com/vibdev/vibdev/blob/main/welcome.svg)
+<img src="https://github.com/vibdev/vibdev/raw/main/welcome.svg" alt="Welcome" width="100%">
 
 ### 'Ello 👋
 
