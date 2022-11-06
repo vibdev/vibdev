@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working at Workday
-- 🌱 I’m currently learning about Design Systems
+- 🌱 I’m currently learning about ES Modules
 - 👯 I’m looking to collaborate on React projects
 - 📫 How to reach me: Connect with me on [Linkedin](https://www.linkedin.com/in/vibdev/)
 - 😄 Pronouns: he/his
