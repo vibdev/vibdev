@@ -4,9 +4,8 @@
 
 
 - 🔭 I’m currently working at Workday
-- 🌱 I’m currently learning about Rust and Deno
-- 👯 I’m looking to collaborate on [MCP](https://modelcontextprotocol.io/introduction) projects
-- 📫 How to reach me: Connect with me on [Threads](https://www.threads.net/@vibdev)
+- 🌱 I’m currently learning about Rust and MCP Events
+- 📫 How to reach me: Connect with me on [X](https://x.com/vibdev)
 - 🤵🏻 Pronouns: he/his
 
 
